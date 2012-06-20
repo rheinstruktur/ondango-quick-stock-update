@@ -1,0 +1,19 @@
+body {font-family: Arial; background: #ccc; padding: 10px;}
+
+
+input[type=text] {width: 30px; text-align: center;}
+
+table { font-size: 10px !important; padding: 0px; margin: 0px; border: 0; border-spacing: 0;}
+table th {font-size: 11px !important; padding: 5px 0; background: gold; border-right: solid 1px #848484; text-align: center;}
+
+table tr:hover {background: green !important;}
+table td {padding: 0; margin: 0px; border-right: solid 1px #848484;}
+
+.vardesc {border: 0; text-align: center;}
+.varinput {padding: 0 5px 0 0;}
+.sku {padding: 0 5px;}
+
+table tr:nth-child(even) {background: #F2F5A9}
+table tr:nth-child(odd) {background: #FFF;}
+
+input[value="1"] {background: red !important;}
