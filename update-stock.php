@@ -3,7 +3,7 @@
 * PHP Quick-Stock-Update Tool for Ondango Shop
 * written by Daniel Speckhardt
 *
-* http://github.com/Rheinstruktur/
+* http://github.com/rheinstruktur/
 * http://rheinstruktur.de
 *
 * GNU General Public License
