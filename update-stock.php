@@ -82,7 +82,7 @@ $product_data = $resultsAllProducts->data;
     </head>
     <body>
         <h1>Ondango Shop - Quick Stock Update Tool</h1>
-        <form name="formUpdate" method="POST" action="update-bestand.php">
+        <form name="formUpdate" method="POST" action="update-stock.php">
 
             <table id="tblProducts">
 
