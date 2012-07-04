@@ -2,3 +2,6 @@ The quick-stock-update tool for ondango shop is very usefull if you have a high 
 with a lot of different variations. With one click you can update  the stock of a product or a products variation-stock
 from outside the ondango backend.
 The tool is flexible and is able to manage countless number of products and variations. 
+The tool DOES NOT SUPPORT:
+- Products with various variations
+- Products with countless stock
